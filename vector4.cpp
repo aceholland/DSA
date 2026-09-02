@@ -1,5 +1,7 @@
 //leetcode 136
 
+//stl study 
+
 //when we do pass by reference we add &num
 
 //linear complexity :means we only have to use one loop
