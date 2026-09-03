@@ -15,7 +15,7 @@ int main(){
     for (int val : arr){
         currSum+=val;
         maxS=max(maxS,currSum);
-        if (currSum<0){//we are doing this after comparing cuz if the array si full negative we dont want it all to set to 0
+        if (currSum<0){//we are doing this after comparing cuz if the array si full negative we dont want it all to set to 0a
             currSum=0;
         }
     }
