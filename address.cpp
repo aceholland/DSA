@@ -3,5 +3,5 @@
 
  int main(){
     int a=10;
-    cout<<"this will print the address "<<&a<<endl;
+    cout<<"this will print the address  "<<&a<<endl;
  }
